@@ -143,7 +143,8 @@ echo "<script type='text/javascript'> document.location = 'dashboard.php'; </scr
                                                 </div>
                                             </div>
                                             <!-- /.panel -->
-                                            <p class="text-muted text-center"><small>Copyright © 2022 SRMS  </a></small> </p>
+                                            <p class="text-muted text-center"><small>Copyright © 2022 SRMS </small> </p>
+                                            <p class= "text-muted text-center"><small>Vignan's Lara Institute of Technology and Science </a></small> </p>
                                         </div>
                                         <!-- /.col-md-11 -->
                                     </div>
